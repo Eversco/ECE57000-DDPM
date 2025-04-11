@@ -2,6 +2,9 @@
 **ECE57000 Artificial Intelligence Final Project on Denoising Diffusion Probabilistic Model implementation with PyTorch**
 
 This project explores the use of Denoising Diffusion Probabilistic Models (DDPM) for image restoration and generative tasks. It implements a U-Net based architecture along with a noise scheduling mechanism to progressively denoise images, recovering clean outputs from noisy inputs. The project focuses on two popular image datasets—MNIST and CIFAR-10—demonstrating how diffusion models can be applied for both image generation and enhancement. By leveraging recent advances in self-supervised learning and probabilistic modeling, the project provides insights into state-of-the-art techniques for synthesizing high-quality images while also evaluating performance through quantitative metrics.
+
+[CLICK HERE FOR DEMONSTRATION.](https://drive.google.com/drive/folders/1dVUsL9CiLiVIpIBU00i93QVrgz6NrtPE?usp=sharing)
+
 ## Table of Contents
 
 - [Overview](#overview)
